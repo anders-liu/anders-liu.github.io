@@ -1,1 +1,1 @@
-This work by Anders Liu (http://anders-liu.github.io/) is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+This work by [Anders Liu](https://anders-liu.github.io/) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
